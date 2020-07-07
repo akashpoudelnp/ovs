@@ -61,8 +61,8 @@ Invalid Credentials, Please Check VoterID or Password and Retry.
             <button type="submit" class="btn btn-block btn-danger">Log in</button>
         </div>
         <div class="clearfix">
-        <a href="#">Create an account!</a><br>
-            <a href="#" class="pull-right">Forgot Password?</a>
+        <a href="register.php">Create an account!</a><br>
+           
         </div>        
     </form>
     
