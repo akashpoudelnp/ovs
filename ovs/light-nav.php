@@ -24,7 +24,7 @@
 <body >
 <nav class="navbar navbar-maroon navbar-dark">
     <div class="container">
-      <a href="../../index3.html" class="navbar-brand">
+      <a href="index.php" class="navbar-brand">
         Online Voting System
       </a>    
     </div>
